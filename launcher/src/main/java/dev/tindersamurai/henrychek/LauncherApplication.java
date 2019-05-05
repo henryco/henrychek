@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HenrychekApplication {
+public class LauncherApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HenrychekApplication.class, args);
+		SpringApplication.run(LauncherApplication.class, args);
 	}
 
 }
